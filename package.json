@@ -1,0 +1,23 @@
+{
+  "name": "redux-grocery-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DantheCodeRaider/Redux-Grocery-List.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DantheCodeRaider/Redux-Grocery-List/issues"
+  },
+  "homepage": "https://github.com/DantheCodeRaider/Redux-Grocery-List#readme",
+  "dependencies": {
+    "redux": "^4.2.0"
+  }
+}
